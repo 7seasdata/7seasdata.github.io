@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>7seas data</title>
+  
+  <subtitle>data for test</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://7seasdata.github.io/"/>
+  <updated>2019-07-15T09:58:16.492Z</updated>
+  <id>http://7seasdata.github.io/</id>
+  
+  <author>
+    <name>7seas Team</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GTM系列教程之 GTM部署以及GA结合埋码</title>
+    <link href="http://7seasdata.github.io/2017/07/26/gtm_lession1/"/>
+    <id>http://7seasdata.github.io/2017/07/26/gtm_lession1/</id>
+    <published>2017-07-25T16:00:00.000Z</published>
+    <updated>2019-07-15T09:58:16.492Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;GTM系列教程之-GTM部署和GA埋码&quot;&gt;&lt;a href=&quot;#GTM系列教程之-GTM部署和GA埋码&quot; class=&quot;headerlink&quot; title=&quot;GTM系列教程之 GTM部署和GA埋码&quot;&gt;&lt;/a&gt;GTM系列教程之 GTM部署和GA埋码&lt;/h1&gt;&lt;h3 id=&quot;背景：&quot;&gt;&lt;a href=&quot;#背景：&quot; class=&quot;headerlink&quot; title=&quot;背景：&quot;&gt;&lt;/a&gt;背景：&lt;/h3&gt;&lt;p&gt;随着现在很多业务的国际化，相信大家都会需要一个统计平台来对自己的业务进行数据的监控以及分析，在国际业务中，Google Analytics (GA) 基本是大家的主要选择，那么今天我们就一起来学习GTM的基础部署 以及 结合GA进行埋码吧&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="GTM系列" scheme="http://7seasdata.github.io/categories/GTM%E7%B3%BB%E5%88%97/"/>
+    
+    
+      <category term="Google Tag Manager" scheme="http://7seasdata.github.io/tags/Google-Tag-Manager/"/>
+    
+  </entry>
+  
+</feed>
